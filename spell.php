@@ -20,4 +20,3 @@ class Spell implements Card {
 
 }
 
- ?>

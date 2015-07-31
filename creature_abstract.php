@@ -28,6 +28,3 @@ class beast extends creature {
     $beastName="Beast Ape";
 }
 
-
-
- ?>

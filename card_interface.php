@@ -5,4 +5,3 @@ interface Card {
     public function attack();
 }
 
- ?>
